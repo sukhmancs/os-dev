@@ -5,10 +5,10 @@ Code for operating system using assembly and C.
 
 We will want to do many things with our OS:
 
- - [x] Boot from scratch, without GRUB - DONE!
- - [x] Enter 32-bit mode - DONE
- - [x] Jump from Assembly to C - DONE!
- - [x] Interrupt handling - DONE!
+ - [x] Boot from scratch, without GRUB
+ - [x] Enter 32-bit mode
+ - [x] Jump from Assembly to C
+ - [x] Interrupt handling
  - [ ] Screen output and keyboard input
  - [ ] A tiny, basic libc which grows to suit our needs
  - [ ] Memory management

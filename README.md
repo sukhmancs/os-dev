@@ -5,7 +5,7 @@ Code for operating system using assembly and C.
 
 We will want to do many things with our OS:
 
- - Boot from scratch, without GRUB - DONE!
+ - [x] Boot from scratch, without GRUB - DONE!
  - Enter 32-bit mode - DONE
  - Jump from Assembly to C - DONE!
  - Interrupt handling - DONE!

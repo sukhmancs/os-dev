@@ -9,8 +9,8 @@ We will want to do many things with our OS:
  - Enter 32-bit mode - DONE
  - Jump from Assembly to C - DONE!
  - Interrupt handling - DONE!
- - Screen output and keyboard input - DONE!
- - A tiny, basic libc which grows to suit our needs - DONE!
+ - Screen output and keyboard input
+ - A tiny, basic libc which grows to suit our needs
  - Memory management
  - Write a filesystem to store files
  - Create a very simple shell
